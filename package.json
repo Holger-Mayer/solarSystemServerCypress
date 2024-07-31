@@ -1,0 +1,14 @@
+{
+  "name": "solarsystemservercypress",
+  "version": "1.0.0",
+  "description": "UI Tests of solarsystemserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Holger Mayer",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
